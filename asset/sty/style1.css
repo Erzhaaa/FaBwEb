@@ -1,0 +1,66 @@
+
+
+:root{
+    --e-or: #fb8d19;
+    --e-red: rgb(100, 6, 6);
+    --e-bc: black;
+}
+
+nav{
+    padding: 4px;
+    position: sticky;
+    background-color: var(--e-or);
+}
+
+nav li{
+    display: inline;
+    margin-right: 20px;
+    list-style-type: none;
+    top: 0;
+}
+
+.navbar{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+span{
+    color: var(--e-red);
+    text-shadow: 60px;
+}
+
+.desain{
+    background-color: black;
+    color: black;
+}
+
+.er{
+    padding: 20px;
+}
+
+.cerita{
+    padding: 190px;
+    
+}
+
+table{
+    padding: 3px;
+
+}
+
+footer {
+    padding: 20px;
+    color: white;
+    background-color: var(--e-red);
+    text-align: center;
+    font-weight: bold;
+}
+
+.container{
+    color: black;
+}
+
+.b{
+    padding: 60px;
+}
+
