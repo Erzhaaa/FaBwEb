@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>FAB/WEB</title>
-  <link rel="stylesheet" href="styles/style1.css">
+  <link rel="stylesheet" href="assets/styles/style1.css">
   <style>
     .er {
       background-image: url(assets/image/ice.jpg);
@@ -72,7 +72,7 @@
         <h1 style=" text-align: center;">CERITA</h1>
         <p style=" text-align: center;">kumplan cerita yang seru dan lucu menunggu anda</p>
         <div class="c1">
-          <img src="image/Fabel-Cerita-Anak-Buaya-dan-Monyet.webp" alt="buaya dan monyet">
+          <img src="assets/image/Fabel-Cerita-Anak-Buaya-dan-Monyet.webp" alt="buaya dan monyet">
           <br>
           <h2>Buaya Dan Monyet</h2>
           <br>
@@ -122,7 +122,7 @@
         </div>
 
         <div class="c2">
-          <img src="image/th.jpg" alt="bangau dan kepiting">
+          <img src="assets/image/th.jpg" alt="bangau dan kepiting">
           <br>
           <h2>Bangau Dan Kepiting</h2>
           <br>
@@ -172,7 +172,7 @@
         </div>
 
         <div class="c3">
-          <img src="image/Cerita-Fabel-Gongeng-Kelinci-dan-Gajah.webp" alt="gajah dan tikus">
+          <img src="assets/image/Cerita-Fabel-Gongeng-Kelinci-dan-Gajah.webp" alt="gajah dan tikus">
           <br>
           <h2>Gajah dan Tikus</h2>
           <br>
@@ -231,17 +231,17 @@
         <li>Gajah Yang Nakal</li>
       </ol>
 
-      <img src="image/buaya.png" alt="riri kancil dan buaya">
+      <img src="assets/image/buaya.png" alt="riri kancil dan buaya">
       <a href="https://youtu.be/KUrlU6WW7ZI?si=uS3VHU4H5crqI2wS">
         <button style="background-color: rgb(224, 116, 116);">cerita kancil dan buaya</button></a>
       <br>
       <br>
-      <img src="image/rubah kelinci.png" alt="riri kelinci dan rubah">
+      <img src="assets/image/rubah kelinci.png" alt="riri kelinci dan rubah">
       <a href="https://youtu.be/-xe3CnynJfw?si=AqnuuOyh6sxq1_yv">
         <button style="background-color: rgb(224, 116, 116);">cerita kelinci dan rubah</button></a>
       <br>
       <br>
-      <img src="image/gajah nakal.png" alt="riri gajah yang nakal">
+      <img src="assets/image/gajah nakal.png" alt="riri gajah yang nakal">
       <a href="https://youtu.be/aZmO-hVTLF0?si=XZ6BYN1P4RE-DKoE">
         <button style="background-color: rgb(224, 116, 116);">cerita Gajah yang nakal</button></a>
     </div>
